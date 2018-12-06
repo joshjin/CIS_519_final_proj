@@ -15,8 +15,7 @@ def read_data(path):
 
 
 def get_x(l):
-    for stroke in l:
-        print(1)
+    pass
 
 
 def process_df(df):
